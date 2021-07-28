@@ -1,5 +1,5 @@
 # Flags
-Flags is a Discord bot written in TypeScript for Deno
+🤖 Flags is a Discord bot written in TypeScript for Deno
 
 # Getting Started
 ### Prerequisite
